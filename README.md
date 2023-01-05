@@ -5,3 +5,5 @@ I have completed the Java tutorial for Absolute Beginners and have completed 28 
 I have completed the videos of Java Programming - IP University Syllabus.
 <h2> Day 3 </h2>
 I have completed the Git and Github Tutorial and half of Spring boot video. I was also revising the Java tutorials for IP University
+<h2> Day 4 </h2>
+I have completed the Spring Boot Video and started with Spring Data JPA.
